@@ -1,4 +1,4 @@
-# GRACE_v3
+# GRACE C. albicans WGS
 Repository for WGS analysis of Candida albicans mutants
 
 GATK_variantcalling: standard variant calling with GATK implementing BQSR
